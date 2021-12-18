@@ -17,13 +17,14 @@
 //   appId: "1:486291334893:web:a687afe7a558adea744ee4"
 // };
 // Your web app's Firebase configuration
+// Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCT_9-3adA4axxAgbsfnDvHJGar2SZOe_8",
-  authDomain: "acoustica-78f5e.firebaseapp.com",
-  projectId: "acoustica-78f5e",
-  storageBucket: "acoustica-78f5e.appspot.com",
-  messagingSenderId: "337047920489",
-  appId: "1:337047920489:web:29ec1534267a34ae2527f8"
+  apiKey: "AIzaSyDE54tvZa5Ep68eXRMI6BdVi3X5qR4A4x8",
+  authDomain: "my-doctor-portal.firebaseapp.com",
+  projectId: "my-doctor-portal",
+  storageBucket: "my-doctor-portal.appspot.com",
+  messagingSenderId: "525021905842",
+  appId: "1:525021905842:web:2a332415369118c31c5aab"
 };
 
 
