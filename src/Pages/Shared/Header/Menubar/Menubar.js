@@ -13,9 +13,9 @@ const Menubar = () => {
         <Navbar.Brand>
           <h1 className="logo">
             <span className="logo-main">
-            <i class="fas fa-guitar"></i>ACOUS
+            <i class="fas fa-guitar"></i>Ashiq Guiter
             </span>
-            TICA
+             Shop
           </h1>
         </Navbar.Brand>
         <Navbar.Toggle id="toggle" aria-controls="responsive-navbar-nav">

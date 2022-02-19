@@ -2,12 +2,12 @@ import React from "react";
 import Banner from "./Banner/Banner";
 import Menubar from "./Menubar/Menubar";
 import "./Header.css";
-import UpHeader from "./UpHeader/UpHeader";
+// import UpHeader from "./UpHeader/UpHeader";
 
 const Header = () => {
   return (
     <div>
-      <UpHeader></UpHeader>
+      {/* <UpHeader></UpHeader> */}
 
       <header>
         <Menubar></Menubar>

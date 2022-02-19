@@ -1,6 +1,6 @@
 import React from "react";
 import './CustomerSupport.css'
-import supportImg from "../../../assets/support-1.png";
+
 const CustomerSupport = () => {
   return (
     <div className="Support-container">
@@ -25,7 +25,7 @@ const CustomerSupport = () => {
             src="https://cdn.tourradar.com/s3/team/original/116_X7vUqJpc.jpg"
             alt=""
           />
-          <img src={supportImg} alt="" />
+        
           <img
             src="https://cdn.tourradar.com/s3/team/original/119_xutrVM4W.jpg"
             alt=""

@@ -14,9 +14,9 @@ const Footer = () => {
         <div className="col-md-6 col-lg-3 col-12 ">
         <h1 className="logo">
             <span className="logo-main">
-              <i className="fas fa-car fs-2 logo-main"></i>ACOUS
+              <i className="fas fa-car fs-2 logo-main"></i>Ashiq Guiter
             </span>
-            TICA
+            Shop
           </h1>
           <hr className="footer-hr" />
           <p className="footer-text pe-3">
@@ -89,7 +89,7 @@ const Footer = () => {
         </div>
 
         <p className="footer-last-text text-center mt-5">
-          © 2021 -ACOUSTICA. All right reserved.
+          © 2022 Ashiq Guiter Shop. All right reserved.
         </p>
       </div>
     </div>
